@@ -6,9 +6,7 @@
 import os
 import re
 
-#LRpath = "/Volumes/4TB/Lightroom/LightroomMasters"
-LRpath = input("Drag the LightroomMasters folder here")
-LRpath = LRpath.strip('\'')
+LRpath = "/THIS/IS/THE/PATH/TO/YOUR/MASTERS/FOLDER/LightroomMasters"
 
 directory_list = list()
 for root, dirs, files in os.walk(LRpath, topdown=False):
