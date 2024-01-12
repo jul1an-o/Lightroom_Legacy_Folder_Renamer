@@ -4,5 +4,5 @@ This python script automates the renaming of legacy folder names (Lightroom Clas
 
 `/year/month/year-month-day/.`
 
-The updated folder structure reflects one of the current folder naming conventions supported as of Lightroom Classic (10):
+The updated folder structure reflects one of the current folder naming conventions supported as of Lightroom Classic 10:
 `/year/month/day/.`
